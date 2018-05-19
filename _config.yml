@@ -23,12 +23,13 @@ menu:
   github:
     url: https://github.com/Otakan951
     target: _blank
-  twitter:
-    url: https://twitter.com/Otakan951
-    target: _blank
   link:
     text: Mastodon
     url: https://mstdn.maud.io/@Otakan951
+    target: _blank
+  twitter:
+    url: https://twitter.com/Otakan951
+    target: _blank
 
 # 你的头像url
 avatar: /img/avatar.png
@@ -43,7 +44,7 @@ favicon: /favicon.ico
 email: https://otakan.jp
 
 # sitename
-sitename: OtakanSite
+sitename: Otakan.JP
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
@@ -61,12 +62,12 @@ mathjax: false
 archive_yearly: true
 
 # 是否显示文章最后更新时间
-show_last_updated: true
+show_last_updated: false
 
 # 是否开启分享
 share: true
 
-# 是否开启打赏，关闭 
+# 是否开启打赏，关闭
 reward: false
 #reward:
 #  title: 谢谢大爷~
